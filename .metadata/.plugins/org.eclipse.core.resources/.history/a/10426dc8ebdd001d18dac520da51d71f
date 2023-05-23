@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class main {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		LoopWhile objWhile = new LoopWhile();
+		LoopWhileSentila objSentinela = new LoopWhileSentila();
+		
+		
+		//objWhile.LoopWhileContador();
+		
+		//objWhile.LoopWhileContador2(0);
+		
+		objSentinela.LoopWhile();
+	}
+
+}

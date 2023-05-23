@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class Valor {
+
+	int[] Valores1 = new int[10];
+	Scanner objScanner = new Scanner(System.in);
+	
+	public void Numeros() {
+		
+		for(int indice = 0; indice < Valores1.length; indice++) {
+			
+			
+			System.out.println((indice +1) + Valores1[indice]);
+			
+		}
+		
+		for(int Valores2; Valores2 < Valores1.length; indice++) {
+					
+					
+					System.out.println((indice +1) + Valores1[indice]);
+					
+				}
+	}
+	
+}

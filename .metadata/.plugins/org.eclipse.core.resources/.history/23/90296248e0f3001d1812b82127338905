@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Media {
+	
+	String[] Nomes = new String[10];
+	Scanner objScanner = new Scanner(System.in);
+	
+		
+	public void NomeNomes() {
+		
+			() {
+		
+		System.out.println("DIGITE UM NOME:");
+		
+		
+		}
+		
+		System.out.println("TOTAL DE Nomes: " + Nomes.length);
+		
+		
+	}
+
+}

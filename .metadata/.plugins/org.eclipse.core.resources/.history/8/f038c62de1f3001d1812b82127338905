@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Media {
+	
+	String[] Nomes = new String[10];
+	Scanner objScanner = new Scanner(System.in);
+	
+	void listarAlunos() {
+	
+		
+			for(int indice = 0;indice < Nomes.length;indice++) {
+		
+		System.out.println("DIGITE UM NOME:");
+		Nomes[indice] = objScanner.next();
+		
+		
+		}
+		
+		System.out.println("TOTAL DE Nomes: " + Nomes.length);
+		
+		
+	}
+
+
+
+}

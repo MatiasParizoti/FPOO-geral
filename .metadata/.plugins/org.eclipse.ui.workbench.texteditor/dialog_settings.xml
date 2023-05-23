@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Nomes" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="Alunos"/>
+			<item value="valores1"/>
+			<item value="Sentinela"/>
+			<item value="lado3"/>
+			<item value="lado2"/>
+			<item value="lado1"/>
+			<item value="Op"/>
+			<item value="resultado"/>
+			<item value="n2"/>
+			<item value="n1"/>
+			<item value="op"/>
+			<item value="r"/>
+			<item value="R"/>
+			<item value="OP"/>
+			<item value="media2"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Nomes"/>
+			<item value="Alunos"/>
+			<item value="NP"/>
+			<item value="Lado3"/>
+			<item value="Lado2"/>
+			<item value="Lado1"/>
+			<item value="Operacao"/>
+			<item value="Resultado"/>
+			<item value="N2"/>
+			<item value="N1"/>
+			<item value="Op"/>
+			<item value="resultado"/>
+			<item value="r"/>
+			<item value="op"/>
+			<item value="Media2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="801" key="DIALOG_X_ORIGIN"/>
+		<item value="222" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

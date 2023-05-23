@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+
+public class LoopWhileSentila {
+
+	public void LoopWhile() {
+		
+		Scanner objscanner = new Scanner(System.in);
+		
+		String Sentinela = "";
+		while () {
+			
+			
+		}
+	}
+}

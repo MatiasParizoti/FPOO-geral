@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+public class Media {
+	
+	String[] valores1 = {"Nunes","Ana","Matheus","João","Renan","Marcelo","Gustavo","Rafael","Kayque","Samuel"};
+	float[] nomes = new float[10];
+	Scanner objScanner = new Scanner(System.in);
+	
+		public void NomeAlunos() {
+		
+		
+		for(int indice = 0; indice < valores1.length; indice++) {
+			
+			//System.out.println((indice + 1) +"º NOME ALUNO(A):" + valores1[indice]);
+			
+			
+			System.out.println("NOMES DO ALUNO(A):" + valores1[indice]);
+			int cont = 0;
+			while(cont < 1) {
+				
+				System.out.println("DIGITE A :" + (cont + 1) + "º NOME");
+				nomes[cont] = objScanner.nextFloat();
+				cont++;
+
+			}
+			
+		}
+		
+		System.out.println("LISTAGEM DE NOMES:");
+		int cont = 0;
+		while(cont < nomes.length) {
+			
+			
+			System.out.println(valores1[indice] +"º NOME: " + nomes[cont]);
+			cont++;
+		}
+		
+		System.out.println("TOTAL DE ALUNOS: " + valores1.length);
+		
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Valores 1");
+		
+		Valor objValor = new Valor();
+				
+				objValor.Numeros();
+
+				
+	}
+
+}
